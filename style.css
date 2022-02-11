@@ -1,0 +1,127 @@
+/* commented out visibility: hidden and transform: scale(0); to be able to see the content on the webpage */
+
+.container{
+   display: grid;
+   background-color: white;
+   display: grid2;
+   width:100px;
+   height:100px;
+   display: grid3;
+   display: grid4;
+   align-items: center;
+   display: grid;
+   background-color: brown;
+   display: grid3;
+   display: grid4;
+   align-items: center;
+   display: grid;
+   justify-self: center;
+   text-align: center;
+  font-family: arial;
+  margin: 0;
+  margin:0;
+  margin:0;
+  margin:0;
+  background-color: #27476E;
+  border-radius: 25px;
+  display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  width:300px;
+  height:300px;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid3;
+  display: grid4;
+   align-items: center;
+   display: grid;
+   width:275px;
+  height:275px;
+  display: grid2;
+  width:300px;
+  height:300px;
+  display: grid1;
+   display: grid;
+   margin:0;
+   margin:0;
+   width:100%;
+   height:100%;
+   display: grid;
+   width:270px;
+   height:360px;
+   display: grid3;
+   display: grid4;
+   /* visibility: hidden; */
+   /* transform: scale(0); */
+   transition: 0.5s;
+}
+
+@keyframes killstreak {
+  0%    {transform: scale(1); opacity: 50%;}
+  100%  {transform: scale(1.8); opacity: 50%;}
+  0%   {transform: scale(1.8) rotateZ(130deg);}
+  100%  {transform: scale(1); opacity: 50%;}
+  0%   {transform: scale(1.8) rotateZ(130deg);}
+  100%  {transform: scale(1); opacity: 50%;}
+  show {transform: scale(1.8); opacity: 50%;}
+}
+
+
+@keyframes killstreak2 {
+  0%    {transform: scale(1); opacity: 50%;}
+  100%  {transform: scale(1); opacity: 50%;
