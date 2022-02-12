@@ -1,14 +1,14 @@
 # GPT2-website
-website created by feeding(?) gpt2 my commlab projects 
+website created by training gpt2 using my commlab projects 
 
 this website is not the best
 
 i gave gpt2 a text document containtaining the html and css for my past communications lab projects.
 
-i generated the html document by giving it the starting word as "<html>" 
+i generated the html document by giving it the starting promtpt as "<html>" 
   
 
-then i genereated the css document seperatly using .container{ as the start. .container{ was chosen as the starting word because it was the recurring div in the genereated html document. 
+then i genereated the css document seperatly using .container{ as the prompt. .container{ was chosen as the starting word because it was the recurring div in the genereated html document. 
   
   
 for the css document, i commented out two lines that hid the content of the webpage. 
